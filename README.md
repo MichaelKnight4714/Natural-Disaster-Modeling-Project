@@ -27,30 +27,29 @@ When it came time to map, many of our tweets had little-to-no location data. Uti
 4. Evaluate our main models & apply it to our other datasets.
 
 ### Pre-processing
-    - Clean the tweets to remove unwanted characters and words
-    - Tokenize, Lemmatize, and Stem the words contained within our tweets
-    - Train/test split the data to apply to our Logistic Regression Model
+  - Clean the tweets to remove unwanted characters and words
+  - Tokenize, Lemmatize, and Stem the words contained within our tweets
+  - Train/test split the data to apply to our Logistic Regression Model
 
 ### Inferential Visualizations
-    - Looking at feature loading & understanding them.  
-    - Looking at how accurately we can map disasters related to tweets as they occur and given their level of urgency.  
-    - Is there a pattern to the errors? Consider reworking the model to fix this or even using Regex to accurately filter out text.  
+  - Looking at feature loading & understanding them.  
+  - Looking at how accurately we can map disasters related to tweets as they occur and given their level of urgency.  
+  - Is there a pattern to the errors? Consider reworking the model to fix this or even using Regex to accurately filter out text.  
 
 ### Deliverables
-For this project, we will be providing a few deliverables that will showcase what we decided to study, infer & discover from the datasets. This will be our evidence for any statistical analysis of the project. Below we have
-listed all deliverables that you will expect to see:
+For this project, we will be providing a few deliverables that will showcase what we decided to study, infer & discover from the datasets. This will be our evidence for any statistical analysis of the project. Below we have listed all deliverables that you will expect to see.
 
 - Jupyter Notebooks that encompass:
   - All of our Python code.
+  - Our exploratory data analysis & data cleaning steps.
   - All graphs created from the Python code of the data sets.
   - Statistical inferential analysis of the data.
-  - Our current model & any future model(s).
-  - Our exploratory data analysis & data cleaning steps.
+  - Our current model(s)
   - Any business recommendations.
   - Map(s) corresponding with our data & location of the tweets during or after the disaster corresponding with the disaster.
-  - All data sets.
-  - This README.md file stating the background of our Project
-  - Our presentation in a PDF file format.
+- All data sets.
+- This README.md file stating the background of our Project
+- Our presentation in a PDF file format.
 
 CrisisLex URL:
 http://crisislex.org
